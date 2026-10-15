@@ -1,0 +1,62 @@
+.yyy{
+  background-color: red;
+   margin: 10px;
+ padding: 10px;
+ border-radius: 15px;
+}
+.iii{
+  background-color: pink;
+ margin: 10px;
+ padding: 10px;
+ border-radius: 15px;
+}
+.iii a{
+  text-decoration: none;
+  color: white;
+}
+.yyy a{
+  text-decoration: none;
+  color: white;
+
+}
+.fff a{
+  text-decoration: none;
+  color: white;
+}
+.fff{
+  background-color: blue;
+ margin: 10px;
+ padding: 10px;
+ border-radius: 15px;
+}
+nav{
+
+  background-color: brown;
+  border-radius: 15px;
+  padding: 20px; 
+}
+nav a.sss{
+  background-color: blue;
+margin: 10px;
+ padding: 10px;
+ border-radius: 15px;
+ text-decoration: none;
+ color: white;
+}
+nav a.aaa{
+  background-color: blue;
+ margin: 10px;
+ padding: 10px;
+ border-radius: 15px;
+ text-decoration: none;
+ color:white;  
+}
+nav a.hhh{
+  background-color: blue;
+ margin: 10px;
+ padding: 10px;
+ border-radius: 15px;
+ text-decoration: none;
+ color:white
+}
+

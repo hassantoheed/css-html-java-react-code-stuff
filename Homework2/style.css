@@ -1,0 +1,46 @@
+.logo img{
+    height: 80px;
+    width: 100px;
+}
+.header{
+    background-color: yellow;
+}
+.menu {
+    display: flex;
+    list-style: none; 
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.menu a{
+    text-decoration: none;
+    background-color: red;
+    color: green;
+    border-radius: 15px;
+}
+video{
+    width: 100%;
+}
+.box{
+    grid-area: "A";
+    border-radius: 15px;
+    background-color: red;
+   
+    width: 33.3vw;
+    height:33.3vh ;
+}
+p{
+    background-color: blue;
+}
+.container{
+    display: grid;
+    grid-template-areas: "A A A";
+    flex: 1;
+ gap:10px;
+
+}
+form{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}

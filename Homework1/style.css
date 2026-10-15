@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.menu ul{
+display: flex;
+  list-style: none;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.menu a{
+  border-radius: 15px;
+  background-color: green;
+}
+.header{
+background-color: red;
+}
+a{
+  text-decoration: none;
+  color: yellow;
+}
+.text{
+  border-radius: 15px;
+}
+
+.logo{
+  height: 52.33px;
+  width: 52.33px;
+}
+.header h1{
+  color:yellow
+}
+.box1{
+  border-radius: 15px;
+  background-color: blue;
+}

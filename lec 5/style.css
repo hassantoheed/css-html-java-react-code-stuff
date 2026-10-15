@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+div{
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    color: black;
+    padding: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+.box-1 h1{
+    background-color: red;
+}

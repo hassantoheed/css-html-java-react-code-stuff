@@ -1,0 +1,33 @@
+[
+    {
+       "id":1,
+       "name":"Game of Thrones",
+       "price": 1200,
+       "bgColor":"#ffe5e5"
+    },
+    {
+        "id":2,
+        "name": "Batman Dark Knight",
+        "price": 1100,
+        "bgColor": "#fff0b3"
+    },
+    {
+        "id":3,
+        "name": "Grand Theft Auto 5: GTA 5",
+        "price": 200,
+        "bgColor":"fff0b3"
+    },
+    {
+        "id":4,
+        "name": "Red Dead Redemption",
+        "price":2500,
+        "bgColor":"e5ffe5"
+
+    },
+    {
+        "id":5,
+        "name":"Last of Us",
+        "price":50,
+        "bgColor":"#fff0b3"
+    }
+]

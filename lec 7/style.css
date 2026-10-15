@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    width:100vw;
+    height: 100vh;
+    background-color: aquamarine;
+    display: grid;
+    gap: 5px;
+    grid-template-areas: 
+    "A A A"
+    "B C C"
+    "D D E";
+}
+
+.box1{
+    grid-area:A;
+    background-color: red;
+}
+.box2{
+    grid-area:B;
+    background-color: blue;
+}
+.box3{
+    grid-area:C;
+    background-color: yellow;
+}
+.box4{
+    grid-area:D;
+    background-color: green;
+}
+.box5{
+    grid-area: E;
+    background-color: chartreuse;
+}

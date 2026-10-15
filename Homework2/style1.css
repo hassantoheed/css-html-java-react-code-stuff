@@ -1,0 +1,14 @@
+.header{
+    background-color: red;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    list-style: none;
+    gap: 15px;
+}
+.menu a{
+    text-decoration: none;
+    color: yellow;
+}
